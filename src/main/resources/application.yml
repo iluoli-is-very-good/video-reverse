@@ -1,1 +1,7 @@
 
+reverse.core:
+  tencent:
+    appVersion: 1.0.143
+    platform: 10201
+    v: 3.5.57
+    encryptVer: 9.1
