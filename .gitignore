@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -33,6 +34,8 @@ build/
 .vscode/
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/iluoli-is-very-good/video-reverse.git
 # Compiled class file
 *.class
 
